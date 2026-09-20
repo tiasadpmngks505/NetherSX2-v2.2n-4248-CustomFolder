@@ -1,1 +1,3 @@
-# NetherSX2-v2.2n-4248-CustomFolder
+# 💳 | Credits
+- NetherSX2: **Trixarian**
+- Custom Folder Modification: **KISSJIN**
